@@ -2,7 +2,6 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## Welcome to my blog
+我爱编程！！！我爱java！！！我爱动漫！！！
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 

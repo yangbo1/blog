@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: npl
+categories: 动漫
 ---
 
 ## 我爱动漫

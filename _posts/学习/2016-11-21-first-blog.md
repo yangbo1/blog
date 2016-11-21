@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: diary
+categories: 学习
 ---
 
 ## 我爱编程

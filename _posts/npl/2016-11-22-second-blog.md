@@ -4,6 +4,6 @@ comments: true
 categories: npl
 ---
 
-## Empty npl tutorial template
+## 我爱动漫
 
-Empty post template
+我爱动漫

@@ -4,6 +4,6 @@ comments: true
 categories: paracraft
 ---
 
-## Empty diary template
+## 我爱妹子
 
-Empty post template
+我爱妹子

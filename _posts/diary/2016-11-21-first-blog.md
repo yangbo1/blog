@@ -4,6 +4,6 @@ comments: true
 categories: diary
 ---
 
-## Empty diary template
+## 我爱编程
 
-Empty post template
+我爱编程

@@ -15,13 +15,13 @@ permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
 viewsourceroot: https://github.com/yangbo1/blog/
 # this is the url root of the create page link on the footer page.
-newsourceroot: https://github.com/yangbo1/yangbo1.github.io/new/master
+newsourceroot: https://github.com/yangbo1/blog
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
 #duoshuo_shortname: yangbo1
 #duoshuo_url: "http://yangbo1.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
-disqus_shortname: yangbo1
+disqus_shortname: yangbo
 disqus_url: "http://yangbo1.github.io"
 #########################################
 

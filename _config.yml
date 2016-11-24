@@ -18,11 +18,11 @@ viewsourceroot: https://github.com/yangbo1/blog/
 newsourceroot: https://github.com/yangbo1/blog
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
-#duoshuo_shortname: yangbo
-#duoshuo_url: "http://yangbo1.github.io"
+duoshuo_shortname: yangbo
+duoshuo_url: "http://yangbo1.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
-disqus_shortname: yangbo
-disqus_url: "http://yangbo1.github.io"
+#disqus_shortname: yangbo
+#disqus_url: "http://yangbo1.github.io"
 #########################################
 
 # Build settings

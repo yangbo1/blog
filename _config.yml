@@ -29,6 +29,6 @@ newsourceroot: https://github.com/yangbo1/blog
 markdown: kramdown
 
 # highlight
-# highlighter: pygments
+ highlighter: pygments
  highlighter: rouge
-# highlighter: false
+ highlighter: false

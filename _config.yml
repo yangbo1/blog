@@ -31,4 +31,4 @@ markdown: kramdown
 # highlight
 # highlighter: pygments
 # highlighter: rouge
- highlighter: true
+# highlighter: true

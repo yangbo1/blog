@@ -446,7 +446,7 @@ blockquote:last-child {
 }
 
 #myAffix .affix{
-	top:-20px;
+	top:0px;
 	bottom: 0px;
 }
 

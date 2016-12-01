@@ -140,7 +140,7 @@ function generateContent() {
           //数据加载完成后，加固定边栏
         $('#myAffix').attr({
             'data-spy': 'affix',
-            'data-offset': '50'
+            'data-offset': '0'
         });
     }
     console.log("myAffix!!!");

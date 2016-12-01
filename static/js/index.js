@@ -138,10 +138,10 @@ function generateContent() {
     } else {
         $('#content .content-text').html('<ul>' + $('#markdown-toc').html() + '</ul>');
           //数据加载完成后，加固定边栏
-        $('#myAffix').attr({
+        /*$('#myAffix').attr({
             'data-spy': 'affix',
             'data-offset': '50'
-        });
+        });*/
     }
     console.log("myAffix!!!");
 }

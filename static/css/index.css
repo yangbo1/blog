@@ -450,6 +450,7 @@ blockquote:last-child {
 	bottom: 0px;*/
 	top: 0px;
 	bottom: -20px;
+	width: 252px;
 }
 
 @media screen and (max-width: 1200px){
